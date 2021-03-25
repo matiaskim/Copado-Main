@@ -25,7 +25,7 @@
     </middleLine>
     <name>Test Letterhead 2</name>
     <topLine>
-        <color>#AAAAFF</color>
-        <height>5</height>
+        <color>#9999FF</color>
+        <height>0</height>
     </topLine>
 </Letterhead>
