@@ -451,11 +451,12 @@
     </fields>
     <fields>
         <fullName>Test_Custom_Field__c</fullName>
+        <description>This is to test the changes.</description>
         <externalId>false</externalId>
         <label>Test Custom Field</label>
         <precision>18</precision>
         <required>false</required>
-        <scale>0</scale>
+        <scale>2</scale>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Number</type>
         <unique>false</unique>
