@@ -155,7 +155,8 @@
     <externalSharingModel>Private</externalSharingModel>
     <fields>
         <fullName>Test_Checkbox__c</fullName>
-        <defaultValue>false</defaultValue>
+        <defaultValue>true</defaultValue>
+        <description>Testing Purposes</description>
         <externalId>false</externalId>
         <label>Test Checkbox</label>
         <trackHistory>false</trackHistory>
