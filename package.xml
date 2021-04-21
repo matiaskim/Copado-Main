@@ -5,8 +5,8 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>es</members>
-        <name>Translations</name>
+        <members>Test_CO_History_Tracking__c-en_US</members>
+        <name>CustomObjectTranslation</name>
     </types>
     <version>51.0</version>
 </Package>
