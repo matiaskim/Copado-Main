@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Case.Box__c</members>
+        <members>Test_CO_History_Tracking__c.Test_Checkbox__c</members>
         <name>CustomField</name>
     </types>
     <types>
-        <members>Case-Case Feed View</members>
-        <name>Layout</name>
+        <members>es</members>
+        <name>Translations</name>
     </types>
-    <version>50.0</version>
+    <version>51.0</version>
 </Package>
