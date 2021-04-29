@@ -2,7 +2,7 @@ Dear {!Contact.FirstName},
 
 {!Case.Solution_Description}
 
-Thank you,
+Thank you very much,
 
 {!User.Name}
 {!Organization.Name}
