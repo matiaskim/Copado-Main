@@ -55,6 +55,10 @@
         <field>FlowInterviewLog$InterviewStatus</field>
         <sortOrder>Asc</sortOrder>
     </groupingsDown>
+    <groupingsDown>
+        <field>FlowInterviewLog$CreatedDate</field>
+        <sortOrder>Asc</sortOrder>
+    </groupingsDown>
     <name>Sample Flow Report: Screen Flows</name>
     <params>
         <name>co</name>
