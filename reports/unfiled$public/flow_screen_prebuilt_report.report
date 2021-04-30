@@ -8,13 +8,11 @@
             <axisBinding>y</axisBinding>
             <column>RowCount</column>
         </chartSummaries>
-        <chartType>HorizontalBarStacked</chartType>
+        <chartType>HorizontalBar</chartType>
         <enableHoverLabels>false</enableHoverLabels>
         <expandOthers>true</expandOthers>
-        <groupingColumn>FlowInterviewLog$FlowDeveloperName</groupingColumn>
-        <legendPosition>Right</legendPosition>
+        <groupingColumn>FlowInterviewLog$InterviewStatus</groupingColumn>
         <location>CHART_BOTTOM</location>
-        <secondaryGroupingColumn>FlowInterviewLog$InterviewStatus</secondaryGroupingColumn>
         <showAxisLabels>true</showAxisLabels>
         <showPercentage>false</showPercentage>
         <showTotal>false</showTotal>
@@ -40,9 +38,6 @@
     <columns>
         <field>FlowInterviewLog$InterviewStartTimestamp</field>
     </columns>
-    <columns>
-        <field>FlowInterviewLog$CreatedBy</field>
-    </columns>
     <description>Which flows run, what’s the status of each interview, and how long do users take to complete the screens?</description>
     <format>Summary</format>
     <groupingsDown>
@@ -56,7 +51,8 @@
         <sortOrder>Asc</sortOrder>
     </groupingsDown>
     <groupingsDown>
-        <field>FlowInterviewLog$CreatedDate</field>
+        <dateGranularity>Day</dateGranularity>
+        <field>FlowInterviewLog$CreatedBy</field>
         <sortOrder>Asc</sortOrder>
     </groupingsDown>
     <name>Sample Flow Report: Screen Flows</name>
