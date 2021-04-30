@@ -56,7 +56,8 @@
         <sortOrder>Asc</sortOrder>
     </groupingsDown>
     <groupingsDown>
-        <field>FlowInterviewLog$CreatedDate</field>
+        <dateGranularity>Day</dateGranularity>
+        <field>FlowInterviewLog$FlowVersionNumber</field>
         <sortOrder>Asc</sortOrder>
     </groupingsDown>
     <name>Sample Flow Report: Screen Flows</name>
