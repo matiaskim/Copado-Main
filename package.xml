@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>unfiled$public/flow_screen_prebuilt_report</members>
-        <name>Report</name>
+        <members>Account.Test_Number__c</members>
+        <members>Campaign.Test_Campaign__c</members>
+        <members>Contact.Test_Contact__c</members>
+        <name>CustomField</name>
     </types>
     <types>
-        <members>screen_flows_prebuilt_crt</members>
-        <name>ReportType</name>
+        <members>Test Full Profile</members>
+        <name>Profile</name>
     </types>
     <version>51.0</version>
 </Package>

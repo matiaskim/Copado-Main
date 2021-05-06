@@ -265,6 +265,16 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Test_Campaign__c</fullName>
+        <description>Testing Purpose</description>
+        <externalId>false</externalId>
+        <label>Test Campaign</label>
+        <length>10</length>
+        <required>false</required>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Type</fullName>
         <type>Picklist</type>
     </fields>
