@@ -472,6 +472,17 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>Test_Contact__c</fullName>
+        <description>Testing Purpose</description>
+        <externalId>false</externalId>
+        <label>Test Contact</label>
+        <length>10</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Title</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
