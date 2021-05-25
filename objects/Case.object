@@ -521,6 +521,12 @@
         </filters>
         <label>My Open Cases</label>
     </listViews>
+    <recordTypes>
+        <fullName>New_Case_Record_Type</fullName>
+        <active>true</active>
+        <businessProcess>New Support Process</businessProcess>
+        <label>New Case Record Type</label>
+    </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>CASES.CASE_NUMBER</customTabListAdditionalFields>
         <customTabListAdditionalFields>CASES.SUBJECT</customTabListAdditionalFields>
