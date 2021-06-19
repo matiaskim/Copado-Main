@@ -456,10 +456,10 @@
         <label>Test Custom Field</label>
         <precision>18</precision>
         <required>false</required>
-        <scale>2</scale>
+        <scale>3</scale>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Number</type>
-        <unique>false</unique>
+        <unique>true</unique>
     </fields>
     <fields>
         <fullName>Test_Number__c</fullName>
@@ -516,6 +516,7 @@
     </fields>
     <fields>
         <fullName>Website</fullName>
+        <description>Testing Purposes</description>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>

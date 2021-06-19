@@ -210,6 +210,6 @@
     </escalationRule>
     <escalationRule>
         <fullName>Test Escalation</fullName>
-        <active>true</active>
+        <active>false</active>
     </escalationRule>
 </EscalationRules>

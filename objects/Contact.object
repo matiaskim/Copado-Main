@@ -390,6 +390,7 @@
     </fields>
     <fields>
         <fullName>Languages__c</fullName>
+        <description>Testing Purposes</description>
         <externalId>false</externalId>
         <label>Languages</label>
         <length>100</length>
@@ -535,6 +536,16 @@
         </filters>
         <label>New This Week</label>
     </listViews>
+    <profileSearchLayouts>
+        <fields>FULL_NAME</fields>
+        <fields>ACCOUNT.NAME</fields>
+        <fields>ACCOUNT.SITE</fields>
+        <fields>CONTACT.PHONE1</fields>
+        <fields>CONTACT.EMAIL</fields>
+        <fields>CORE.USERS.ALIAS</fields>
+        <fields>ACCOUNT.ACCOUNT_ID</fields>
+        <profileName>Test Full Profile</profileName>
+    </profileSearchLayouts>
     <searchLayouts>
         <customTabListAdditionalFields>FULL_NAME</customTabListAdditionalFields>
         <customTabListAdditionalFields>ACCOUNT.NAME</customTabListAdditionalFields>

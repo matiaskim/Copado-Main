@@ -9,7 +9,7 @@
         <value>Test CO History Trackings</value>
     </caseValues>
     <fields>
-        <label></label>
+        <label><!-- Test Checkbox --></label>
         <name>Test_Checkbox__c</name>
     </fields>
     <startsWith>Consonant</startsWith>

@@ -175,7 +175,7 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Test CO History Trackings</pluralLabel>
-    <searchLayouts />
+    <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>

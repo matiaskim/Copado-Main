@@ -244,6 +244,7 @@
     </fields>
     <fields>
         <fullName>ContractName</fullName>
+        <description>Test</description>
     </fields>
     <fields>
         <fullName>CustomerAuthorizedById</fullName>
@@ -315,6 +316,7 @@
     </fields>
     <fields>
         <fullName>Status</fullName>
+        <description>Testing Purposes</description>
         <trackHistory>true</trackHistory>
         <type>Picklist</type>
     </fields>
