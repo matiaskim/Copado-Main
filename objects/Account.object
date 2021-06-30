@@ -462,6 +462,16 @@
         <unique>true</unique>
     </fields>
     <fields>
+        <fullName>Test_Environment__c</fullName>
+        <externalId>false</externalId>
+        <label>Test Environment</label>
+        <length>30</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Test_Number__c</fullName>
         <description>Testing Purpose</description>
         <externalId>false</externalId>
