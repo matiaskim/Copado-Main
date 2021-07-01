@@ -8,9 +8,5 @@
         <members>Test_EmailTemplate</members>
         <name>Letterhead</name>
     </types>
-    <types>
-        <members>Case.Test_EmailTemplate</members>
-        <name>WorkflowAlert</name>
-    </types>
     <version>51.0</version>
 </Package>
