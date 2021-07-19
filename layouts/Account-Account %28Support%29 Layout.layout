@@ -51,6 +51,10 @@
                 <behavior>Edit</behavior>
                 <field>Yes_or_No__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Test_Environment__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
