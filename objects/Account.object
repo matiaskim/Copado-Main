@@ -262,6 +262,7 @@
     </fields>
     <fields>
         <fullName>AnnualRevenue</fullName>
+        <description>Calculate Annual Revenue</description>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
