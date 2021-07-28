@@ -4654,10 +4654,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
-        <name>ManageQuotas</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
         <name>ManageRecommendationStrategies</name>
     </userPermissions>
     <userPermissions>
