@@ -4965,10 +4965,6 @@
         <name>ViewAllData</name>
     </userPermissions>
     <userPermissions>
-        <enabled>true</enabled>
-        <name>ViewAllForecasts</name>
-    </userPermissions>
-    <userPermissions>
         <enabled>false</enabled>
         <name>ViewAllForeignKeyNames</name>
     </userPermissions>
