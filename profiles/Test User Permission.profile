@@ -4765,10 +4765,6 @@
         <name>NewReportBuilder</name>
     </userPermissions>
     <userPermissions>
-        <enabled>true</enabled>
-        <name>OverrideForecasts</name>
-    </userPermissions>
-    <userPermissions>
         <enabled>false</enabled>
         <name>Packaging2</name>
     </userPermissions>
