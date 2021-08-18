@@ -286,6 +286,33 @@
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
+        <fullName>Delete_Picklist_Custom_Field__c</fullName>
+        <description>Delete Picklist Custom Field</description>
+        <externalId>false</externalId>
+        <label>Delete Picklist Custom Field</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Hello</fullName>
+                    <default>false</default>
+                    <label>Hello</label>
+                </value>
+                <value>
+                    <fullName>Bye</fullName>
+                    <default>false</default>
+                    <label>Bye</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>Description</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>true</trackHistory>
