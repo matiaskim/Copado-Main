@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Prompt xmlns="http://soap.sforce.com/2006/04/metadata">
+    <masterLabel>New Prompt</masterLabel>
+    <promptVersions>
+        <actionButtonLabel>Account Home</actionButtonLabel>
+        <actionButtonLink>/lightning/o/Account/home</actionButtonLink>
+        <body>&lt;p&gt;Thank you!&lt;/p&gt;</body>
+        <customApplication>standard__LightningSales</customApplication>
+        <delayDays>1</delayDays>
+        <description>Try this out!</description>
+        <displayType>DockedComposer</displayType>
+        <endDate>2021-09-17</endDate>
+        <header>Hello!</header>
+        <isPublished>true</isPublished>
+        <masterLabel>New Prompt</masterLabel>
+        <publishedDate>2021-09-16</publishedDate>
+        <shouldDisplayActionButton>true</shouldDisplayActionButton>
+        <shouldIgnoreGlobalDelay>false</shouldIgnoreGlobalDelay>
+        <startDate>2021-09-16</startDate>
+        <targetPageKey1>home</targetPageKey1>
+        <targetPageType>standard__namedPage</targetPageType>
+        <timesToDisplay>1</timesToDisplay>
+        <title>How are you today?</title>
+        <userAccess>Everyone</userAccess>
+        <userProfileAccess>Everyone</userProfileAccess>
+        <versionNumber>1</versionNumber>
+    </promptVersions>
+</Prompt>
