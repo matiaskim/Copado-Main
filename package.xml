@@ -5,6 +5,10 @@
         <name>CompactLayout</name>
     </types>
     <types>
+        <members>Case</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Case.Cloud_Support</members>
         <members>Case.EDA</members>
         <members>Case.Sc_Ops</members>
