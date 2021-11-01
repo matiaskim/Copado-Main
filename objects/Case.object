@@ -221,6 +221,13 @@
         </values>
     </businessProcesses>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <compactLayouts>
+        <fullName>Test_Compact_Layout</fullName>
+        <fields>OwnerId</fields>
+        <fields>ContactPhone</fields>
+        <fields>Subject</fields>
+        <label>Test Compact Layout</label>
+    </compactLayouts>
     <enableFeeds>true</enableFeeds>
     <externalSharingModel>Private</externalSharingModel>
     <fields>
@@ -548,6 +555,18 @@
     <recordTypeTrackFeedHistory>false</recordTypeTrackFeedHistory>
     <recordTypeTrackHistory>true</recordTypeTrackHistory>
     <recordTypes>
+        <fullName>Cloud_Support</fullName>
+        <active>true</active>
+        <businessProcess>New Support Process</businessProcess>
+        <label>Cloud Support</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>EDA</fullName>
+        <active>true</active>
+        <businessProcess>New Support Process</businessProcess>
+        <label>EDA</label>
+    </recordTypes>
+    <recordTypes>
         <fullName>New_Case_Record_Type</fullName>
         <active>true</active>
         <businessProcess>New Support Process</businessProcess>
@@ -697,6 +716,12 @@
                 <default>false</default>
             </values>
         </picklistValues>
+    </recordTypes>
+    <recordTypes>
+        <fullName>Sc_Ops</fullName>
+        <active>true</active>
+        <businessProcess>New Support Process</businessProcess>
+        <label>Sc Ops</label>
     </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>CASES.CASE_NUMBER</customTabListAdditionalFields>
