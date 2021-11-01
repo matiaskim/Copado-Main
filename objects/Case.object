@@ -221,6 +221,13 @@
         </values>
     </businessProcesses>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <compactLayouts>
+        <fullName>Test_Compact_Layout</fullName>
+        <fields>OwnerId</fields>
+        <fields>ContactPhone</fields>
+        <fields>Subject</fields>
+        <label>Test Compact Layout</label>
+    </compactLayouts>
     <enableFeeds>true</enableFeeds>
     <externalSharingModel>Private</externalSharingModel>
     <fields>
