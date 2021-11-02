@@ -9,6 +9,9 @@
         <name>Profile</name>
     </types>
     <types>
+        <members>Case.Cloud_Support</members>
+        <members>Case.EDA</members>
+        <members>Case.Sc_Ops</members>
         <members>Case.Test</members>
         <name>RecordType</name>
     </types>
