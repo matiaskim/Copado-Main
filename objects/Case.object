@@ -555,6 +555,20 @@
     <recordTypeTrackFeedHistory>false</recordTypeTrackFeedHistory>
     <recordTypeTrackHistory>true</recordTypeTrackHistory>
     <recordTypes>
+        <fullName>Cloud_Support</fullName>
+        <active>true</active>
+        <businessProcess>New Support Process</businessProcess>
+        <compactLayoutAssignment>Test_Compact_Layout</compactLayoutAssignment>
+        <label>Cloud Support</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>EDA</fullName>
+        <active>true</active>
+        <businessProcess>New Support Process</businessProcess>
+        <compactLayoutAssignment>Test_Compact_Layout</compactLayoutAssignment>
+        <label>EDA</label>
+    </recordTypes>
+    <recordTypes>
         <fullName>New_Case_Record_Type</fullName>
         <active>true</active>
         <businessProcess>New Support Process</businessProcess>
@@ -704,6 +718,13 @@
                 <default>false</default>
             </values>
         </picklistValues>
+    </recordTypes>
+    <recordTypes>
+        <fullName>Sc_Ops</fullName>
+        <active>true</active>
+        <businessProcess>New Support Process</businessProcess>
+        <compactLayoutAssignment>Test_Compact_Layout</compactLayoutAssignment>
+        <label>Sc Ops</label>
     </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>CASES.CASE_NUMBER</customTabListAdditionalFields>
