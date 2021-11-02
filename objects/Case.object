@@ -197,6 +197,13 @@
         <type>Default</type>
     </actionOverrides>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <compactLayouts>
+        <fullName>Test_Compact_Layout</fullName>
+        <fields>OwnerId</fields>
+        <fields>ContactPhone</fields>
+        <fields>Subject</fields>
+        <label>Test Compact Layout</label>
+    </compactLayouts>
     <enableFeeds>true</enableFeeds>
     <externalSharingModel>Private</externalSharingModel>
     <fields>
@@ -521,6 +528,13 @@
         </filters>
         <label>My Open Cases</label>
     </listViews>
+    <recordTypes>
+        <fullName>Test</fullName>
+        <active>true</active>
+        <businessProcess>New Support Process</businessProcess>
+        <compactLayoutAssignment>Test_Compact_Layout</compactLayoutAssignment>
+        <label>Test</label>
+    </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>CASES.CASE_NUMBER</customTabListAdditionalFields>
         <customTabListAdditionalFields>CASES.SUBJECT</customTabListAdditionalFields>
