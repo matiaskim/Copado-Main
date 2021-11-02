@@ -730,6 +730,7 @@
         <fullName>Test</fullName>
         <active>true</active>
         <businessProcess>New Support Process</businessProcess>
+        <compactLayoutAssignment>Test_Compact_Layout</compactLayoutAssignment>
         <label>Test</label>
     </recordTypes>
     <searchLayouts>
