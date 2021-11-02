@@ -557,6 +557,12 @@
         <compactLayoutAssignment>Test_Compact_Layout</compactLayoutAssignment>
         <label>Sc Ops</label>
     </recordTypes>
+    <recordTypes>
+        <fullName>Test</fullName>
+        <active>true</active>
+        <businessProcess>New Support Process</businessProcess>
+        <label>Test</label>
+    </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>CASES.CASE_NUMBER</customTabListAdditionalFields>
         <customTabListAdditionalFields>CASES.SUBJECT</customTabListAdditionalFields>
