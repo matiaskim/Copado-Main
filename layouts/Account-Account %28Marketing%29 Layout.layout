@@ -43,6 +43,10 @@
                 <behavior>Edit</behavior>
                 <field>Test_Environment__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Test_Destructive_Changes__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

@@ -20,6 +20,7 @@
                     <value>setup_service_experience__Create_Case</value>
                 </componentInstanceProperties>
                 <componentName>flowruntime:interview</componentName>
+                <identifier>flowruntime_interview</identifier>
             </componentInstance>
         </itemInstances>
         <name>bottomRight</name>

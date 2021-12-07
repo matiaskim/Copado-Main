@@ -4,6 +4,7 @@
         <itemInstances>
             <componentInstance>
                 <componentName>runtime_sales_activities:todayTaskContainer</componentName>
+                <identifier>runtime_sales_activities_todayTaskContainer</identifier>
             </componentInstance>
         </itemInstances>
         <name>top</name>
@@ -16,6 +17,7 @@
                     <name>title</name>
                 </componentInstanceProperties>
                 <componentName>runtime_mobilesapp:launchPadTileList</componentName>
+                <identifier>runtime_mobilesapp_launchPadTileList</identifier>
             </componentInstance>
         </itemInstances>
         <name>left</name>
@@ -49,6 +51,7 @@
                     <value>3</value>
                 </componentInstanceProperties>
                 <componentName>flexipage:filterListCard</componentName>
+                <identifier>flexipage_filterListCard</identifier>
             </componentInstance>
         </itemInstances>
         <name>middle</name>
@@ -58,6 +61,7 @@
         <itemInstances>
             <componentInstance>
                 <componentName>home:eventContainer</componentName>
+                <identifier>home_eventContainer</identifier>
             </componentInstance>
         </itemInstances>
         <name>right</name>
