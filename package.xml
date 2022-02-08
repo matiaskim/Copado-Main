@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Account.Show_Kenny__c</members>
-        <name>CustomField</name>
+        <members>SVC Service - L2%2FL3</members>
+        <name>Profile</name>
     </types>
     <version>53.0</version>
 </Package>
