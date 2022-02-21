@@ -3750,6 +3750,11 @@
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>false</editable>
+        <field>Event.Broker_Planholder__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>true</editable>
         <field>Event.Description</field>
         <readable>true</readable>
@@ -4763,6 +4768,11 @@
         <editable>true</editable>
         <field>Task.ActivityDate</field>
         <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Task.Broker_Planholder__c</field>
+        <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
@@ -12452,6 +12462,10 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+        <name>UseAddOrderItemSummaryAPIs</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
         <name>UseOmnichannelInventoryAPIs</name>
     </userPermissions>
     <userPermissions>
@@ -12517,6 +12531,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ViewHelpLink</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ViewMLModels</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
