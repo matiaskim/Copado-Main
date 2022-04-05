@@ -6,5 +6,6 @@ public class ContactManager {
         insert contactToAdd;
         System.debug('contactToAdd recordID is: ' + contactToAdd.Id);
         return contactToAdd.Id;
+        
     }
 }
