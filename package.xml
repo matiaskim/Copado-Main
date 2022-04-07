@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Event.Broker_Planholder__c</members>
-        <members>Idea.AttachmentBody</members>
-        <members>Idea.AttachmentContentType</members>
-        <members>Idea.AttachmentLength</members>
-        <members>Idea.AttachmentName</members>
-        <members>Task.Broker_Planholder__c</members>
-        <name>CustomField</name>
+        <members>Test_New_Permission_Set_Case</members>
+        <name>PermissionSet</name>
     </types>
-    <types>
-        <members>Idea</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>Admin</members>
-        <name>Profile</name>
-    </types>
-    <version>53.0</version>
+    <version>54.0</version>
 </Package>
